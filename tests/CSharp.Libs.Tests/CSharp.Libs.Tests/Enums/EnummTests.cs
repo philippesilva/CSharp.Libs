@@ -3,7 +3,7 @@ using Xunit;
 
 namespace CSharp.Libs.Tests.Enums
 {
-    public class EnummTest
+    public class EnummTests
     {
         [Fact]
         public void GetDescriptionTest()

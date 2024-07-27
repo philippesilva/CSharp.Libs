@@ -3,7 +3,7 @@ using Xunit;
 
 namespace CSharp.Libs.Tests.ValueObjects
 {
-    public class CpfTest
+    public class CpfTests
     {
 		[Theory]
 		[InlineData("413.858.940-66")]

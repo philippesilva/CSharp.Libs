@@ -3,7 +3,7 @@ using Xunit;
 
 namespace CSharp.Libs.Tests.ValueObjects
 {
-    public class EmailAddressTest
+    public class EmailAddressTests
 	{
         [Fact]
 		public void Email_IsInvalid_ReturnSuccess()

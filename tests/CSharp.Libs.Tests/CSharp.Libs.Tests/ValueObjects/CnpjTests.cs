@@ -3,7 +3,7 @@ using Xunit;
 
 namespace CSharp.Libs.Tests.ValueObjects
 {
-    public class CnpjTest
+    public class CnpjTests
     {
         [Theory]
         [InlineData("59.450.556/1001-22")]
